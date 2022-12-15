@@ -1,18 +1,18 @@
 
 def count_batteries_by_usage(cycles):
-  if counts>930:
-    print("High")
-    return
-  elif counts<310:
-    print("Low")
-    return
-  elif count<310 and count>929:
-    print("medium")
-    return
-   #return {
-   # "lowCount": 0,
-   # "mediumCount": 0,
-   # "highCount": 0
+  #if counts>930:
+  #  print("High")
+  #  return
+  #elif counts<310:
+  #  print("Low")
+  #  return
+  #elif count<310 and count>929:
+  #  print("medium")
+  #  return
+  return {
+    "lowCount": 0,
+    "mediumCount": 0,
+    "highCount": 0
   }
 
 
